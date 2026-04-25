@@ -1,4 +1,4 @@
-<base href="/markdown/">
+<base href="/legacy/markdown/">
 <link rel="icon" href="favicon.ico">
 
 <link rel="stylesheet" type="text/css" href="/css/page.css">
